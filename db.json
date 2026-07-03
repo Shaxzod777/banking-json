@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "email": "kk.developer92@gmail.com",
+      "firstName": "Konstantin",
+      "lastName": "Kuznetsov",
+      "password": "asdfg9593",
+      "id": "DkzZx0LDZTk"
+    },
+    {
+      "email": "kostic92@yandex.com",
+      "firstName": "Dev",
+      "lastName": "Web",
+      "password": "12345",
+      "id": "_R80cjG-pfY"
+    },
+    {
+      "email": "studentwepro@gmail.com",
+      "firstName": "Wepro",
+      "lastName": "Wepro",
+      "password": "2025",
+      "id": "DwtShE6U5qE"
+    }
+  ],
+  "wallets": [
+    {
+      "walletId": "1783058895091",
+      "userId": "DkzZx0LDZTk",
+      "name": "Humo",
+      "currency": "UZS",
+      "id": "lyBF4rzFA00"
+    },
+    {
+      "walletId": "1783058903834",
+      "userId": "DkzZx0LDZTk",
+      "name": "Visa",
+      "currency": "USD",
+      "id": "ZBV_Uur1SUI"
+    },
+    {
+      "walletId": "1783058915554",
+      "userId": "DkzZx0LDZTk",
+      "name": "Mastercard",
+      "currency": "EUR",
+      "id": "U2pYbJHm6zM"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "name": "Humo",
+      "currency": "UZS",
+      "id": "8pfYVhtJ6Zo"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "name": "Visa",
+      "currency": "USD",
+      "id": "fz3EEHQYZK8"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "name": "Mastercard",
+      "currency": "EUR",
+      "id": "_s9iOxaymfo"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "name": "Halyk",
+      "currency": "KZT",
+      "id": "YAw7A8Jy4Vs"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "name": "UniPay",
+      "currency": "CNY",
+      "id": "eTztLh5Li7o"
+    }
+  ],
+  "transactions": [
+    {
+      "userId": "DkzZx0LDZTk",
+      "transactionId": "1783058915554",
+      "walletName": "Humo",
+      "category": "Food",
+      "amount": 2000,
+      "date": "2026-07-03",
+      "id": "Tn4gJtzyvP4"
+    },
+    {
+      "userId": "DkzZx0LDZTk",
+      "transactionId": "1783058903834",
+      "walletName": "Visa",
+      "category": "Food",
+      "amount": 2000,
+      "date": "2026-07-03",
+      "id": "cMrcCr67Pdg"
+    },
+    {
+      "userId": "DkzZx0LDZTk",
+      "transactionId": "1783059506868",
+      "walletName": "Mastercard",
+      "category": "Food",
+      "amount": 2000,
+      "date": "2026-07-03",
+      "id": "0Yh2Fdl_VrE"
+    },
+    {
+      "userId": "DkzZx0LDZTk",
+      "transactionId": "1783059579267",
+      "walletName": "Humo",
+      "category": "Food",
+      "amount": 2000,
+      "date": "2026-07-03",
+      "id": "VPQRYLXucH0"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "transactionId": "1783076214011",
+      "walletName": "Visa",
+      "category": "Кофе",
+      "amount": 500,
+      "date": "2026-07-03",
+      "id": "gsmG1vuBPRs"
+    },
+    {
+      "userId": "DwtShE6U5qE",
+      "transactionId": "1783076377492",
+      "walletName": "UniPay",
+      "category": "Анна за кофе",
+      "amount": 500,
+      "date": "2026-07-03",
+      "id": "ggzppVg5hqs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
